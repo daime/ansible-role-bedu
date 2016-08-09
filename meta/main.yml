@@ -1,0 +1,15 @@
+galaxy_info:
+  author: daime monkeys
+  description: BEDU inspires life
+  company: daime corp
+
+  license: MIT
+
+  min_ansible_version: 1.2
+
+  galaxy_tags:
+    - bedu
+    - happiness
+    - ssh
+
+dependencies: []

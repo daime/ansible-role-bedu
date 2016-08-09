@@ -1,0 +1,7 @@
+---
+- name: Copy bedu
+  copy: src=etc/motd
+        dest=/etc/motd
+        owner=root
+        group=root
+        mode=0644
